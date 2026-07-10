@@ -27,13 +27,7 @@ Netflix-PowerBI-Dashboard
 
 # 📊 Dashboard Preview
 
-> Replace the image name below if your screenshot has a different filename.
-
-```markdown
-![Dashboard](Dashboard_Image.png)
-```
-
----
+![Dashboard](Images/Dashboard_Image.png)
 
 # 🚀 Dashboard Features
 
